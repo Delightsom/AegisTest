@@ -12,3 +12,6 @@ An open-source evaluation suite designed to assess open-source large language mo
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+2. Run the application:
+   ```bash
+   streamlit run app.py
